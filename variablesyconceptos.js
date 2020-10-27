@@ -9,8 +9,8 @@ var stringTres = stringUno + " " + stringDos;
 
 console.log(stringTres);
 
-var miNombre = "Sabrina"
-var miApellido = "Cabana"
+var miNombre = "Sabrina";
+var miApellido = "Cabana";
 var nombreApellido = miNombre.length + miApellido.length;
 
 console.log(nombreApellido);
